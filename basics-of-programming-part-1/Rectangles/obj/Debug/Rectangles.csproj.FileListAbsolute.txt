@@ -1,0 +1,10 @@
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Rectangles\bin\Debug\TestingRoom.dll
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Rectangles\obj\Debug\Rectangles.csproj.AssemblyReference.cache
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Rectangles\obj\Debug\Rectangles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Rectangles\obj\Debug\Rectangles.csproj.CoreCompileInputs.cache
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Rectangles\obj\Debug\Rectangles.csproj.CopyComplete
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Rectangles\obj\Debug\Rectangles.pdb

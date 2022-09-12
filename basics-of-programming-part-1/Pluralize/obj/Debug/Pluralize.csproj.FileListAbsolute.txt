@@ -1,0 +1,18 @@
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize.csproj (1)\bin\Debug\rubles.txt
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize.csproj (1)\bin\Debug\Pluralize.exe.config
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize.csproj (1)\bin\Debug\Pluralize.exe
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize.csproj (1)\bin\Debug\Pluralize.pdb
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize.csproj (1)\obj\Debug\Pluralize.csproj.AssemblyReference.cache
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize.csproj (1)\obj\Debug\Pluralize.csproj.SuggestedBindingRedirects.cache
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize.csproj (1)\obj\Debug\Pluralize.csproj.CoreCompileInputs.cache
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize.csproj (1)\obj\Debug\Pluralize.exe
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize.csproj (1)\obj\Debug\Pluralize.pdb
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize\bin\Debug\rubles.txt
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize\bin\Debug\Pluralize.exe.config
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize\bin\Debug\Pluralize.exe
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize\bin\Debug\Pluralize.pdb
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize\obj\Debug\Pluralize.csproj.AssemblyReference.cache
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize\obj\Debug\Pluralize.csproj.SuggestedBindingRedirects.cache
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize\obj\Debug\Pluralize.csproj.CoreCompileInputs.cache
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize\obj\Debug\Pluralize.exe
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Pluralize\obj\Debug\Pluralize.pdb

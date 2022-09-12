@@ -1,0 +1,7 @@
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Percentages\Percentages\bin\Debug\Percentages.exe
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Percentages\Percentages\bin\Debug\Percentages.pdb
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Percentages\Percentages\obj\Debug\Percentages.csproj.AssemblyReference.cache
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Percentages\Percentages\obj\Debug\Percentages.csproj.SuggestedBindingRedirects.cache
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Percentages\Percentages\obj\Debug\Percentages.csproj.CoreCompileInputs.cache
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Percentages\Percentages\obj\Debug\Percentages.exe
+C:\Users\Working\Desktop\ulearn-2022\basics-of-programming-part-1\Percentages\Percentages\obj\Debug\Percentages.pdb
